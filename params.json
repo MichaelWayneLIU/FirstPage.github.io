@@ -1,0 +1,6 @@
+{
+  "name": "Firstpage.GitHub.io",
+  "tagline": "This my real fist page.",
+  "body": "###学习总结\r\n\r\n* 根据师兄们发的资料及链接等等建立起自己的学习环境，包括科学网络，虚拟机，有道云笔记云协作，建立个人博客等等\r\n\t* 学习了操作系统的安装（windows xp，kali linux），并学习针对虚拟机三种网络连接方式分别进行网络配置，在虚拟机上安装了wamp，xamp集成测试环境\r\n\t* 找到合适的VPN和谷歌翻墙插件\r\n\t* 学习markdown语法，sublime的使用技巧\r\n\t* 学写了git的使用技巧，开通了贝格乐空间\r\n\t* 注册了github账号，使用Github Pages生成了第一个页面\r\n\t* 了解了建立个人博客的流程\r\n\t\r\n*  阅读《精通黑客脚本》，结合工具使用教学视频，了解了渗透常用的工具，漏洞的种类，以及浅层次地了解了相关成因\r\n\t* 对常见的脚本漏洞有所了解\r\n\t* 学习了HTML，JS，VBS的基本语法以及相关的一些漏洞\r\n\t* 掌握了一些数据库语句\r\n\t* 对ASP的对象，组件有所了解\r\n\t* 初步学习python的基本语法\r\n\r\n**总之** \r\n\r\n1. **学习方向可能有误，过分纠结；**\r\n\r\n2. **效率有待提升**\r\n\r\n3. **有问题没有及时求教**\r\n\r\n4. **实操过少**\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
